@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "graphql-yoga": "^1.17.4",
     "jsonwebtoken": "^8.5.1",
     "prisma-client-lib": "^1.33.0"
